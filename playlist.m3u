@@ -123,3 +123,9 @@ http://ts4link.com:80/play/live.php?mac=00:1A:79:b0:91:84&stream=699793&extensio
 http://ts4link.com:80/play/live.php?mac=00:1A:79:b0:91:84&stream=699792&extension=ts&play_token=1nqZGOU9Mc&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="##### DE SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/logos/GERMANY.png" group-title="TV - |DE| SPORT",##### DE SPORTS #####
 http://ts4link.com:80/play/live.php?mac=00:1A:79:b0:91:84&stream=699787&extension=ts&play_token=X6DiwQX9wd&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="DE-DAZN BAR 1" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-1.png" group-title="TV - |DE| SPORT",DE-DAZN BAR 1
+http://ts4link.com:80/play/live.php?mac=00:1A:79:b0:91:84&stream=1145575&extension=ts&play_token=qB0OUGbmFa&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="DE-DAZN BAR 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-1.png" group-title="TV - |DE| SPORT",DE-DAZN BAR 1 HD
+http://ts4link.com:80/play/live.php?mac=00:1A:79:b0:91:84&stream=699786&extension=ts&play_token=vTeJwNxoIK&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="DE-DAZN BAR 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/DAZN-BAR-1.png" group-title="TV - |DE| SPORT",DE-DAZN BAR 1 UHD
+http://ts4link.com:80/play/live.php?mac=00:1A:79:b0:91:84&stream=699785&extension=ts&play_token=rD6JIm1yrJ&sn2=
